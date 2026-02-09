@@ -54,19 +54,19 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "ChatGPT",
             desc: "Người bạn đồng hành thông minh, hỗ trợ viết lách và giải đáp mọi thắc mắc.",
             img: "AI_LIST/ChatGPT_Dohoa.png",
-            link: "AI_Presentation/ChatGPT.pdf"
+            link: "https://drive.google.com/file/d/1lCVYWmCDVJtD4gggHPzxpnHZXKDSrOKT/view?usp=sharing"
         },
         {
             name: "Gamma AI",
             desc: "Tạo bài thuyết trình và trang web chuyên nghiệp chỉ với vài câu lệnh đơn giản.",
             img: "AI_LIST/Gamma_Dohoa.png",
-            link: "AI_Presentation/Gamma_AI_Presentations.pdf"
+            link: "https://drive.google.com/file/d/1wOCE3EWqq14EyW3AL-Ujd6AcHZ3tFsn4/view?usp=drive_link"
         },
         {
             name: "Notebook LM",
             desc: "Quản lý và tóm tắt kiến thức từ tài liệu cá nhân một cách thông minh.",
             img: "AI_LIST/NBLM_dohoa.png",
-            link: "AI_Presentation/NotebookLM.pdf"
+            link: "https://drive.google.com/file/d/1qA_QjCAdiMu6Soe852Pu5fqopIGDZzcq/view?usp=drive_link"
         }
     ];
 
